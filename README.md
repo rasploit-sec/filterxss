@@ -1,4 +1,5 @@
-Input Command filterXSS on your function
+On Browser
+Shim mode (reference file test/test.html):
 
 <script src="https://rawgit.com/leizongmin/js-xss/master/dist/xss.js"></script>
 <script>
